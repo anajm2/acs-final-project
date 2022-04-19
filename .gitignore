@@ -1,6 +1,10 @@
 # Prerequisites
 *.d
 
+# To ignore the terraform files
+*.terraform
+
+
 # Object files
 *.o
 *.ko
